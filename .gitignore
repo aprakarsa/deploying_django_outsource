@@ -3,4 +3,3 @@
 *.pyc
 venv/
 .DS_Store
-*.sqlite3
